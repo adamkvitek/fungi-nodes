@@ -50,4 +50,4 @@ Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro 
 
 ## My additions
 
-This is a test sentance or entry to add my first change and see what happens
+This is a test sentence or entry to add my first change and see what happens.
